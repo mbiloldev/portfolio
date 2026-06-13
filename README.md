@@ -14,6 +14,10 @@
 
 ## 👨‍💻 Men haqimda
 
+<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
+
 ```js
 const IT_MENTOR = {
   github:    "mbiloldev",
